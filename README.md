@@ -28,4 +28,4 @@ A console-based application developed in C to streamline the operations of a car
 - **Extendability:** Can integrate file handling and dynamic memory allocation
 ## Details 
 
-- **Sem 1 project 
+- **Sem 1 project**
